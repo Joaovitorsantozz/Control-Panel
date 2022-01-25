@@ -1,0 +1,48 @@
+body{
+    background-color:lightgray;
+}
+header#header{
+    background-color: #333;
+    color:white;
+    margin-bottom: 20px;
+}
+
+#header h2{
+    margin-top: 10px;
+}
+#header p{
+    margin-top: 20px;
+    position: relative;
+    top:9px;
+}
+
+.search{
+    background-color:white;
+    margin-left: 105px;
+    margin-right:60px;
+}
+
+.default-color{
+    background-color: #5995b6 !important;
+    border-color: #4c7b95 !important;
+    color: white !important;
+}
+
+.panel-body{
+    background-color:white;
+    border-radius: 5px;
+}
+
+.panel h7{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.panel p{
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+.panel-default{
+    margin-top: 10px;
+}
